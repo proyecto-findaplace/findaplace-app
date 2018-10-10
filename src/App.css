@@ -1,3 +1,13 @@
+#main-header ul {
+  width: 100%;
+  display: flex;
+}
+
+#main-header ul li {
+  list-style: none;
+  padding: 0 1rem;
+}
+
 .App {
   text-align: center;
 }
